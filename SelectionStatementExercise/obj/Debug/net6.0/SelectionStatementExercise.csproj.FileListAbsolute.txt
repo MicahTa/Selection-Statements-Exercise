@@ -1,0 +1,15 @@
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.exe
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.deps.json
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.runtimeconfig.json
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.dll
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.pdb
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfoInputs.cache
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfo.cs
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.csproj.CoreCompileInputs.cache
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.sourcelink.json
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.dll
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\refint\SelectionStatementExercise.dll
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.pdb
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.genruntimeconfig.cache
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\ref\SelectionStatementExercise.dll
