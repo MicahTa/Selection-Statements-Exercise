@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Reflection.Metadata;
 
 namespace SelectionStatementExercise
 {
@@ -11,8 +12,37 @@ namespace SelectionStatementExercise
             while (won == false) {
                 won = Game();
             }
+
+            won = false;
+            while (won == false) {
+                won = Subject();
+            }
         }
 
+        static bool Subject(){
+            Console.WriteLine("Guess my favorite subject:");
+            string? userInput = (Console.ReadLine());
+
+            switch(userInput){
+                case ("Math"):
+                    Console.WriteLine("CORRECT I LOVE MATH");
+                    return true;
+                case ("History"):
+                    Console.WriteLine("That teacher is really funny but no");
+                    return false;
+                case ("English"):
+                    Console.WriteLine("I am alergic to reading");
+                    return false;
+                case ("Ag"):
+                    Console.WriteLine("Nah not really");
+                    return false;
+                case ("Sychology"):
+                    Console.WriteLine("I hate that class more than anything");
+                    return false;
+                default:
+                    return false;
+            }
+        }
         static bool Game()
         {
             // NO CHEATING
